@@ -58,7 +58,7 @@
     "ajv": "8.1.0",
     "clone": "2.1.2",
     "commander": "8.2.0",
-    "fast-xml-parser": "3.18.0",
+    "fast-xml-parser": "4.2.4",
     "libxmljs2": "0.27.0",
     "node-fetch": "2.6.5",
     "path-browserify": "1.0.1",
