@@ -43,13 +43,13 @@
   "devDependencies": {
     "async": "3.2.0",
     "babel-eslint": "10.1.0",
-    "chai": "4.3.0",
-    "eslint": "7.19.0",
-    "eslint-plugin-jsdoc": "31.6.1",
-    "eslint-plugin-mocha": "8.0.0",
+    "chai": "4.3.10",
+    "eslint": "8.44.0",
+    "eslint-plugin-jsdoc": "46.4.5",
+    "eslint-plugin-mocha": "10.0.4",
     "eslint-plugin-security": "1.4.0",
-    "mocha": "8.2.0",
-    "nyc": "15.1.0"
+    "mocha": "9.1.2",
+    "nyc": "17.0.0"
   },
   "engines": {
     "node": ">=8"
@@ -59,10 +59,10 @@
     "clone": "2.1.2",
     "commander": "8.2.0",
     "fast-xml-parser": "3.18.0",
-    "libxmljs2": "0.27.0",
+    "libxmljs2": "0.35.0",
     "node-fetch": "2.6.5",
     "path-browserify": "1.0.1",
-    "postman-collection": "3.6.9",
+    "postman-collection": "4.0.0",
     "randexp": "0.5.3",
     "traverse": "0.6.6",
     "xmldom": "0.6.0",
